@@ -1,0 +1,10 @@
+{
+  "schemaVersion": 1,
+  "deployRoot": ".runtime",
+  "stateRoot": ".state",
+  "topologyRevision": "1",
+  "lockTimeout": 30,
+  "hookTimeout": 300,
+  "code": "W",
+  "name": "Example Project"
+}
